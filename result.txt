@@ -1,0 +1,22 @@
+"ANALYSIS OF DATASET"
+
+
+Min_len : 14
+Max_len : 35702                                                         "20ng"
+Average_len : 221.25697760798047       
+
+Min_len : 4
+Max_len : 520                                                           "R8"
+Average_len : 65.72126661454261
+
+Min_len : 4
+Max_len : 612                                                           "R52"
+Average_len : 69.81989010989011
+
+Min_len : 14
+Max_len : 476                                                           "ohsumed"
+Average_len : 135.8177027027027
+
+Min_len : 1
+Max_len : 56                                                            "mr"
+Average_len : 20.38585631213656
